@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/purple_200"
+    tools:context=".BusanaFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Jurusan Tata Busana adalah Jurusan yang diperuntukkan bagi mereka yang ingin mengembangkan bakat dan minatnya dalam hal jahit menjahit, sampai dengan membuat produk yang berkualitas. Pada intinya jurusan ini mengakomodir para siswa yang memiliki minat dalam hal fashion"
+        android:textSize="20sp"
+        android:fontFamily="sans-serif"
+        android:layout_marginTop="70sp"
+        android:textAlignment="center"/>
+
+</FrameLayout>
